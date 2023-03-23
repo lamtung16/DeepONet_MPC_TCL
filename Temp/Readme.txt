@@ -1,0 +1,3 @@
+- dat.csv: raw data (t, u, x)
+- data_process.ipynb: create training data for DeepONet from dat.csv
+- MPC_template: template to implement MPC given trained system.
